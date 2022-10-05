@@ -1,0 +1,7 @@
+name: Coretestsender
+version: '${project.version}'
+main: nc.coretestsender.Coretestsender
+api-version: 1.15
+commands:
+  test:
+    permission: test
